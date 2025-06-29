@@ -1,3 +1,4 @@
+![logo]()
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=DAB88B&width=600&height=50&lines=Hi👋,+I'm+Mandinu+Balasooriya;Undergraduate+at+NSBM+Green+University;Passionate+about+Learning+and+Creating;&center=true&vCenter=true&size=25&pause=2000&duration=5000">
 </p>
