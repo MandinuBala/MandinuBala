@@ -1,8 +1,10 @@
-![logo]()
+![logo](https://github.com/MandinuBala/MandinuBala/blob/main/MANDINU%20BALASOORIYA.png)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=DAB88B&width=600&height=50&lines=Hi👋,+I'm+Mandinu+Balasooriya;Undergraduate+at+NSBM+Green+University;Passionate+about+Learning+and+Creating;&center=true&vCenter=true&size=25&pause=2000&duration=5000">
 </p>
-<picture> <img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 60px> </picture>
+<p align= "center"
+<picture > <img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 60px> </picture> 
+</p>
 
 <hr style="border: 1px solid #DAB88B;"/>
 
